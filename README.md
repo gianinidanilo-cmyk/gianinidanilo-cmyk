@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <b>Desenvolvedor em Formação (TDS @ Senac)</b> • <b>Entusiasta de Web & IA Local</b>
+  <b>Desenvolvedor em Formação (TDS @ Senac)</b> • <b>Entusiasta de Web & IA </b>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 ### 🚀 Sobre Mim
 
 - 🎓 Cursando **Técnico em Desenvolvimento de Sistemas (TDS)** no **Senac**.
-- 💻 Focado no aprendizado e construção de soluções web interativas com **JavaScript**, **HTML5** e **CSS3**.
+- 💻 Focado no aprendizado e construção de soluções web interativas com **Java**, **JavaScript**,**C#**, **Node** **HTML5** e **CSS3**.
 - 🧠 Explorando e testando ferramentas de **Inteligência Artificial Local & Open Source**
 - 📍 Residente em **Ribeirão Preto - SP, Brasil**.
 - ⚡ Sempre buscando praticar código limpo, lógica sólida e colaboração em projetos de estudo.
