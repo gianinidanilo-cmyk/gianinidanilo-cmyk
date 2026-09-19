@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner_github.png" alt="Banner do perfil de Danilo Gianini" width="100%" />
+</p>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=550&lines=Danilo+Gianini;Desenvolvedor+de+Sistemas+%40+Senac;JavaScript+%7C+Web+%7C+Open+Source+IA;Ribeir%C3%A3o+Preto%2C+SP+-+Brasil" alt="Typing SVG" />
 </div>
@@ -27,7 +31,7 @@
 ### 🚀 Sobre Mim
 
 - 🎓 Cursando **Técnico em Desenvolvimento de Sistemas (TDS)** no **Senac**.
-- 💻 Focado no aprendizado e construção de soluções web interativas com **Java**, **JavaScript**,**C#**, **Node** **HTML5** e **CSS3**.
+- 💻 Focado no aprendizado e construção de soluções web interativas com **Java**, **JavaScript**, **C#**, **Node.js**, **HTML5** e **CSS3**.
 - 🧠 Explorando e testando ferramentas de **Inteligência Artificial Local & Open Source**
 - 📍 Residente em **Ribeirão Preto - SP, Brasil**.
 - ⚡ Sempre buscando praticar código limpo, lógica sólida e colaboração em projetos de estudo.
@@ -38,7 +42,10 @@
 
 #### **Linguagens & Desenvolvimento Web**
 <p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
